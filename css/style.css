@@ -359,7 +359,7 @@ body {
 .banner-container {
     position: relative;
     min-height: 100vh;
-    display: grid;
+
     align-items: center;
 }
 .banner-text {
@@ -367,6 +367,7 @@ body {
     color: var(--primary-color);
     font-size: 54px;
     max-width: 100%;
+    margin-top: 300px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
